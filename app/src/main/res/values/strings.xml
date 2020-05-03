@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MusicApp07</string>
+    <string name="tv_limit">limit : 5</string>
+    <string name="bt_search">Search</string>
+    <string name="tv_sortby">Sort by:</string>
+    <string name="rb_artist">Artist Rating</string>
+    <string name="rb_track">Track Rating</string>
+    <string name="et_search">Enter a keyword to search</string>
+    <string name="tv_results">Search Results</string>
+</resources>
